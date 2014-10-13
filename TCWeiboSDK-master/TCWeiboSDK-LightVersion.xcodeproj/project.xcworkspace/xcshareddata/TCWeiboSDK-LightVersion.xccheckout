@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D81113DF-B878-4E93-82B0-A3752C10A283</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TCWeiboSDK-LightVersion</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>59D7D6B671B83B19D5045E8A0C24DBE326111F46</key>
+		<string>https://github.com/ADao12/ObjectCLearner</string>
+		<key>A602B3D8-4DAB-4EB1-89FD-31D162C3DA97</key>
+		<string>https://github.com/heloyue/TCWeiboSDK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TCWeiboSDK-master/TCWeiboSDK-LightVersion.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>59D7D6B671B83B19D5045E8A0C24DBE326111F46</key>
+		<string>../../..</string>
+		<key>A602B3D8-4DAB-4EB1-89FD-31D162C3DA97</key>
+		<string>../../../../TCWeiboSDK</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ADao12/ObjectCLearner</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>59D7D6B671B83B19D5045E8A0C24DBE326111F46</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>59D7D6B671B83B19D5045E8A0C24DBE326111F46</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ObjectCLearner</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A602B3D8-4DAB-4EB1-89FD-31D162C3DA97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TCWeiboSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>

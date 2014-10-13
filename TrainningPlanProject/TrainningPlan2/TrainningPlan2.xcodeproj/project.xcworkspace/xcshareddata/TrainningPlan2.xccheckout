@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C663D91B-C039-419C-9091-5B7AB35A8B62</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TrainningPlan2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>59D7D6B671B83B19D5045E8A0C24DBE326111F46</key>
+		<string>https://github.com/ADao12/ObjectCLearner</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TrainningPlanProject/TrainningPlan2/TrainningPlan2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>59D7D6B671B83B19D5045E8A0C24DBE326111F46</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ADao12/ObjectCLearner</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>59D7D6B671B83B19D5045E8A0C24DBE326111F46</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>59D7D6B671B83B19D5045E8A0C24DBE326111F46</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ObjectCLearner</string>
+		</dict>
+	</array>
+</dict>
+</plist>
